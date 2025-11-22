@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Windows User Message Sending.vcxproj" Id="1a8a0424-58ad-4de4-9001-ddf5f492f3ac" />
+</Solution>
